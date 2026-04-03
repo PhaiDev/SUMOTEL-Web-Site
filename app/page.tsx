@@ -135,7 +135,7 @@ export default function Home() {
               </div>
               <div className="aspect-[16/9] overflow-hidden bg-gray-100">
                 <img
-                  src="/img8.jpg"
+                  src="/Img8.jpg"
                   alt="Room 3"
                   className="h-full w-full object-cover"
                   referrerPolicy="no-referrer"
@@ -181,7 +181,7 @@ export default function Home() {
                   "{review.text}"
                 </p>
                 <img
-                  src="/img11.jpg"
+                  src="/Img11.jpg"
                   alt={review.name}
                   className="mb-3 h-12 w-12 rounded-full object-cover"
                   referrerPolicy="no-referrer"
