@@ -81,7 +81,7 @@ export default function Home() {
               {
                 title: "6 ห้อง 6 สไตล์",
                 desc: "เรามีห้องพักทั้งหมด 6 ห้อง โดยแต่ละห้องจะมีสีสันที่แตกต่างกันไป ให้คุณได้เลือกพักตามสไตล์ที่ชอบ",
-                img: "/Img10.jpg",
+                img: "/Img13.jpg",
               },
             ].map((item) => (
               <article key={item.title}>
@@ -251,7 +251,7 @@ export default function Home() {
               <h4 className="mb-6 text-sm font-bold uppercase tracking-widest">การติดต่อ</h4>
               <ul className="space-y-3 text-sm font-light text-gray-400">
                 <li>โทร: 098-181-5097</li>
-                <li><a href="https://www.facebook.com/share/1X3jHuvD7x/?mibextid=wwXIfr">Facebook: ห้องพัก Sumotel</a></li>
+                <li><a href="https://www.facebook.com/share/17X3oPVfYr/?mibextid=wwXIfr">Facebook: Sumotel บริการห้องพักรายวัน</a></li>
                 <li>ต.หนองบัว อ.ปะคำ จ.บุรีรัมย์, ประเทศไทย</li>
               </ul>
             </div>
