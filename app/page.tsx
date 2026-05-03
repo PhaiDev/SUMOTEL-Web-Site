@@ -251,7 +251,23 @@ export default function Home() {
               <h4 className="mb-6 text-sm font-bold uppercase tracking-widest">การติดต่อ</h4>
               <ul className="space-y-3 text-sm font-light text-gray-400">
                 <li>โทร: 098-181-5097</li>
-                <li><a href="https://www.facebook.com/share/17X3oPVfYr/?mibextid=wwXIfr">Facebook: Sumotel บริการห้องพักรายวัน</a></li>
+                <li>
+                  <a
+                    href="https://www.facebook.com/share/17X3oPVfYr/?mibextid=wwXIfr"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-2 transition hover:text-white"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      viewBox="0 0 24 24"
+                      className="h-4 w-4 fill-current"
+                    >
+                      <path d="M24 12C24 5.373 18.627 0 12 0S0 5.373 0 12c0 5.989 4.388 10.954 10.125 11.854v-8.385H7.078V12h3.047V9.356c0-3.007 1.792-4.669 4.533-4.669 1.313 0 2.686.235 2.686.235v2.953h-1.514c-1.491 0-1.956.926-1.956 1.874V12h3.328l-.532 3.469h-2.796v8.385C19.612 22.954 24 17.989 24 12z" />
+                    </svg>
+                    <span>Sumotel บริการห้องพักรายวัน</span>
+                  </a>
+                </li>
                 <li>ต.หนองบัว อ.ปะคำ จ.บุรีรัมย์, ประเทศไทย</li>
               </ul>
             </div>
